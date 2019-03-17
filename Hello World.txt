@@ -1,4 +1,8 @@
 "Hello world"
 
+<<<<<<< HEAD
 
 so geht's weiter
+=======
+so geht's weiter ...
+>>>>>>> d50d781205ef13668b3b8640948d1641388c069d
